@@ -1,0 +1,19 @@
+{
+    "name": "huaguoshanrd/cnbank-pay-hzg",
+    "description": "华之光微信和支付宝线下扫码支付通道 for laravel 5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jetwaves",
+            "email": "jetwaves@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Huaguoshanrd\\CnbankPayHzg\\": "src/"
+        }
+    },
+    "require": {}
+}
